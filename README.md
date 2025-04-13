@@ -1,5 +1,5 @@
 # Hi, I'm 👋, Anurag-Pandey
-  FULL STACK WEB DEVELOPER , KEEN ABOUT AI ,
+  FULL STACK WEB DEVELOPER , KEEN ABOUT AI ,ML, 
              Blockchain Enthusiast
              
 . I am learning software engineering currently        in third year student🎓
